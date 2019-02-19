@@ -1,6 +1,6 @@
 {
   "name": "calories-burnt",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Calculate the number of calories burnt from a run.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
