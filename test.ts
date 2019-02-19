@@ -1,5 +1,5 @@
 import test from 'ava';
-import caloriesBurnt from '../src';
+import caloriesBurnt from './src';
 
 test('Basic calculation', t => {
 	const calories = caloriesBurnt({

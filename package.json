@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "test": "eslint 'src/*.ts' && ava",
+    "test": "eslint '*.ts' 'src/*.ts' && ava",
     "build": "tsc",
     "prepare": "npm run build"
   },
